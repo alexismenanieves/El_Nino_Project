@@ -1,6 +1,6 @@
 ## Readme
 
-This repository has three files:
+This repository has four files:
 
 1. Data.csv, which is a csv file that contains the dataset
 2. Precipitation.tif, which is the raster file for precipitation
